@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Scope sheet</title>
+  <style>
+    :root { color-scheme: light; }
+    body { font: 16px/1.5 ui-sans-serif, system-ui, sans-serif; max-width: 40rem; margin: 2rem auto; padding: 0 1rem; color: #111; }
+    h1 { font-size: 1.5rem; font-weight: 600; }
+    label { display: block; font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; margin: 1rem 0 0.35rem; color: #555; }
+    input, textarea { width: 100%; box-sizing: border-box; padding: 0.6rem 0.7rem; border: 1px solid #ccc; border-radius: 10px; font: inherit; }
+    textarea { min-height: 6rem; }
+    button { margin-top: 1.25rem; height: 2.75rem; padding: 0 1rem; border: 0; border-radius: 12px; background: #111; color: #fff; font: inherit; cursor: pointer; }
+    .out { margin-top: 2rem; padding: 1.25rem; border: 1px solid #ddd; border-radius: 16px; }
+    .muted { color: #666; font-size: 0.85rem; }
+    @media print { form, button { display: none; } .out { border: 0; } }
+  </style>
+</head>
+<body>
+  <h1>Scope sheet</h1>
+  <p class="muted">Fill this, print to PDF, send with the invoice. Not a legal contract and not legal advice. Original tool, MIT.</p>
+  <form id="f">
+    <label for="client">Client (adult / org)</label>
+    <input id="client" required placeholder="Club or PTA name" />
+    <label for="job">Job in one sentence</label>
+    <input id="job" required placeholder="8-session after-school chess block" />
+    <label for="done">Done when</label>
+    <textarea id="done" required placeholder="Eight sessions run. Pairings recorded. Certificates issued. No student DMs."></textarea>
+    <label for="price">Price (USD)</label>
+    <input id="price" inputmode="decimal" required placeholder="1200" />
+    <label for="out">Out of scope</label>
+    <textarea id="out">Transportation, licensed therapy, school-district employment, advertising to minors.</textarea>
+    <button type="submit">Build sheet</button>
+  </form>
+  <article class="out" id="sheet" hidden></article>
+  <script>
+    document.getElementById('f').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var c = document.getElementById('client').value.trim();
+      var j = document.getElementById('job').value.trim();
+      var d = document.getElementById('done').value.trim();
+      var p = document.getElementById('price').value.trim();
+      var o = document.getElementById('out').value.trim();
+      var el = document.getElementById('sheet');
+      el.hidden = false;
+      el.innerHTML =
+        '<p class="muted">Scope sheet · not a legal contract</p>' +
+        '<h2>' + c.replace(/[<>]/g, '') + '</h2>' +
+        '<p><strong>Job.</strong> ' + j.replace(/[<>]/g, '') + '</p>' +
+        '<p><strong>Done when.</strong> ' + d.replace(/[<>]/g, '') + '</p>' +
+        '<p><strong>Price.</strong> $' + p.replace(/[<>]/g, '') + ' USD, due before session two.</p>' +
+        '<p><strong>Out of scope.</strong> ' + o.replace(/[<>]/g, '') + '</p>' +
+        '<p class="muted">Operator is a New York sole proprietor. Income is taxable. Print this page to PDF.</p>';
+      el.scrollIntoView({ behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

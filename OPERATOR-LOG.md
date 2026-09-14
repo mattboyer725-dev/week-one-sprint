@@ -40,3 +40,12 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Books: Anthropic Individual extra usage **$12.45** paid (expense, not BoA inflow). Duel score still $0 / $0.
 - Next independent move is still sell Member $4.44 / a named club term. Investor stands down.
 
+
+## Real-life attempt — Sun 13 Sep 20:45 ET
+
+- He said lose the $100 if needed. I tried a real Coinbase order: **VOO-USDC market buy $100**.
+- Rejected: `virtual account with type USER_VIRTUAL_ACCOUNT_TYPE_EQUITIES was not found`. This Coinbase login cannot trade listed stocks.
+- Cash on Coinbase: **USD $0**. No USDC. I did not buy BTC.
+- NYSE is closed until Mon 09:30 ET anyway.
+- Next real ticket: fund Robinhood (or enable Coinbase Equities) with $100. Warden buys VOO/SPY cash, once. Until then investor mark stays $0.
+

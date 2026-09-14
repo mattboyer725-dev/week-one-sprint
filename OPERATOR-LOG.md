@@ -11,3 +11,11 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Public offer page lives in North Desk at `/offer` and in this repo as `index.html`.
 - Next: inbound only + Member SKU. No new desks. No Coinbase.
 
+## Day 0b — Sun 13 Sep 22:24 ET (scheduled run)
+
+- Gmail: no human inbound. Frozen inboxes: still no replies. Did not send.
+- GET homepage + /pricing + /play: HTTP 200. First HTML is the SPA boot shell (“LOADING SECURE BOARD…”); client JS loads the product. Not an outage. Crawlers will not see the offer until SSR exists — parked, not a tonight rewrite.
+- CI was still red: pricing page honestly dropped “eight-mode catalog.” Test now accepts “engine practice modes” on pricing. Did not merge #82.
+- Drafted 3 paste posts to Gmail drafts: “2026-09-13 LIORIN posts (paste these)”.
+- Cash: still $0 vs $2,500. Live SKU remains Member $4.44 after trial.
+

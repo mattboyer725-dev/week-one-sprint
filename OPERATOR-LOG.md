@@ -19,3 +19,14 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Drafted 3 paste posts to Gmail drafts: “2026-09-13 LIORIN posts (paste these)”.
 - Cash: still $0 vs $2,500. Live SKU remains Member $4.44 after trial.
 
+
+## Day 0c — Sun 13 Sep 20:33 ET — Duel
+
+- User asked for a separate investor agent (stocks) vs operator (ours). Winner = most dollars in Bank of America by 20 Sep 2026 20:00 ET.
+- Counsel: **markets can lose.** “Both can’t lose” is implemented as a ruin wall (no debt, no margin, no options, no crypto, operator $100 is not investor capital) — not a return guarantee.
+- Coinbase Default portfolio: **USD $0**. No lots. Warden will not buy crypto to invent a book.
+- Bank of America is not a connected rail. Grok cannot ACH. Score is real deposits he posts, or Stripe/broker payouts.
+- Robinhood connect was requested (listed stocks, cash). Timed out this session.
+- Investor Warden daily automation 08:15 ET. If still $0, investor supports operator.
+- New North Desk tab: **Duel**.
+

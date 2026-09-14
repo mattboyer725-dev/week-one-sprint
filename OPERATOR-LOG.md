@@ -49,3 +49,12 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - NYSE is closed until Mon 09:30 ET anyway.
 - Next real ticket: fund Robinhood (or enable Coinbase Equities) with $100. Warden buys VOO/SPY cash, once. Until then investor mark stays $0.
 
+
+## Do not cheap out — Sun 13 Sep 20:52 ET
+
+- Investor still cannot size up: Coinbase USD $0, no equities account. Did not buy crypto.
+- Operator sized up: stopped pitching Member $4.44 as the week. Primary ask is **$1,200 / $2,500 club term**.
+- SENT one follow-up to named adult **robert.haber@gmail.com** (thread “demo chess”, last wrote 22 May 2026, no reply then). CAN-SPAM: STOP line. Will not chase twice.
+- Emailed Matt invoice lines + 3 posts + 30-second phone script. He posts; I do not impersonate on X.
+- Frozen org inboxes still frozen.
+

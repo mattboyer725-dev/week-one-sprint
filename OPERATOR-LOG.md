@@ -102,3 +102,14 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   2. Appended this Day 4 note to OPERATOR-LOG.md.
   3. No new outbound. Inbound-only posture held. No desks spawned. PR #82 left unmerged. No emails to minors.
 - Next: continue inbound watch + Member conversion path. Stop new outreach after 20 Sep. Wrap-up email to Matt if after 20 Sep.
+
+## Day 5 — Fri 18 Sep 2026 ~08:20 ET
+
+- Gmail search (inbound humans, last 7d): no LIORIN/chess human threads that asked a question requiring reply. Marketing/notifications only (Temu, Stomping Ground Photo, Apple receipt, GitHub matt-butler failure, Reddit, LinkedIn jobs, Google OAuth alerts, Supabase, Icybox, Anytime Mailbox, BuildingConnected construction bid invite for Sage 437 Madison, etc.). Self-forward of Miller Druck RFP (BNY). Did **not** reply to any. Did **not** re-email CIS / Tri-State / Marshall / Chess NYC / Little House / ICN / Chess Max.
+- Health-check https://liorin-platform.vercel.app/pricing: live and correct. Member $4.44/month after 7-day free trial is the only live cash SKU. Club $99.99 / up to 15 users remains on verification hold (“not charged yet”, EIN/W-9). Copy matches mandate. Page loads cleanly.
+- Cash / mandate: still $0 realized vs $2,500/week average. $100 working capital untouched (not a market bet). No trading executed. Do not promise yield.
+- Three moves only (legal, timeboxed):
+  1. Confirmed pricing page health and SKU state (Member live, Club hold).
+  2. Appended this Day 5 note to OPERATOR-LOG.md.
+  3. No new outbound. Inbound-only posture held. No desks spawned. PR #82 left unmerged. No emails to minors.
+- Next: continue inbound watch + Member conversion path. Stop new outreach after 20 Sep. Wrap-up email to Matt if after 20 Sep.

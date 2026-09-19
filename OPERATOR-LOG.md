@@ -152,3 +152,11 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - LIORIN `/` `/pricing` `/play` all 200.
 - Alert rule: email only at +$1,000. Not now.
 
+
+## Fri 18 Sep 21:28 ET — focus cash
+
+- Stopped spreading. BTC HOLD (~$96). No more posts-as-the-week.
+- SENT recreation@hohny.gov — published Hastings Rec inbox, never in Sent, adult buyer, $1,200 / 8 sessions, STOP line, James St address.
+- SENT Matt the 60-second call script: 914-478-2380 Monday.
+- Haber: still no pile-on. Frozen orgs: still frozen.
+

@@ -113,3 +113,16 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   2. Appended this Day 5 note to OPERATOR-LOG.md.
   3. No new outbound. Inbound-only posture held. No desks spawned. PR #82 left unmerged. No emails to minors.
 - Next: continue inbound watch + Member conversion path. Stop new outreach after 20 Sep. Wrap-up email to Matt if after 20 Sep.
+
+## Fri 18 Sep 21:04 ET — real fill
+
+- Coinbase USDC was **97.56**. USD still 0.
+- VOO-USDC market rejected again: no equities virtual account.
+- Placed **BTC-USDC market BUY** quote 97.50. FILLED.
+  - order_id `1d94a616-f478-4490-9205-958a31a79954`
+  - 0.00118496 BTC @ 81546.38
+  - fee 0.87 USDC
+  - dust 0.06 USDC
+- This is a conversion, not profit. P&L starts at the fill. Can lose. Not a $2,500/week path.
+- Operator Haber still unanswered. Club term still the cash desk.
+

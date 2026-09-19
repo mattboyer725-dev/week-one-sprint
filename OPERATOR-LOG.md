@@ -142,3 +142,13 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Hourly automation **BTC 24/7 lot** armed. Rules: no leverage, no second cash, max 1 round trip/day, sell 50% at +12% (~91212), runner at +50%, buy dip with proceeds only.
 - A million from $97 is ~10,300x. Not a forecast. LIORIN is still the $2,500/week desk.
 
+
+## Fri 18 Sep 21:25 ET — proceed / update
+
+- LOT-1000-72H **OPEN**. Bell Mon 21 Sep 21:11 ET.
+- Coinbase: 0.00118496 BTC + 0.06 USDC. Spot 81288.69. Mark ≈ **$96.38**. Cost 97.50. PnL ≈ **-1.12**. HOLD (inside 5%).
+- No second buy. No leverage. No Kalshi fill.
+- Haber: no reply. Frozen orgs: silent.
+- LIORIN `/` `/pricing` `/play` all 200.
+- Alert rule: email only at +$1,000. Not now.
+

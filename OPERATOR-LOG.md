@@ -167,3 +167,9 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Cash path unchanged: Hastings Rec $1,200. Email already out. Monday 914-478-2380.
 - Offer page is now the one-pager (print). BTC HOLD.
 
+
+## Fri 18 Sep 21:34 ET — not timid
+
+- Four Rec $1,200 notes out: Hastings, Dobbs Ferry, Tarrytown, Irvington. Published inboxes. STOP. Adult buyer. One per village.
+- No fifth tonight. No pump. BTC HOLD. Frozen chess orgs frozen.
+

@@ -173,3 +173,13 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Four Rec $1,200 notes out: Hastings, Dobbs Ferry, Tarrytown, Irvington. Published inboxes. STOP. Adult buyer. One per village.
 - No fifth tonight. No pump. BTC HOLD. Frozen chess orgs frozen.
 
+
+## Fri 18 Sep 21:57 ET — expand, don't lie
+
+- Mark still ~$96, PnL negative. No profit claimed.
+- IBKR connect: user skipped.
+- Robinhood: timed out earlier.
+- NEW: Gmail trigger Rec + Miller/JT Magen (automation ce4a27ea). Reply Rec; never bid from Gmail.
+- Drive: no Tesseract/Q14944 files on this Google account.
+- Coinbase: one Default portfolio only.
+

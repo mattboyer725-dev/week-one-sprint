@@ -126,3 +126,12 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - This is a conversion, not profit. P&L starts at the fill. Can lose. Not a $2,500/week path.
 - Operator Haber still unanswered. Club term still the cash desk.
 
+
+## Fri 18 Sep 21:08 ET — cornerstone loop
+
+- LIORIN is the product that cannot fail. BTC 0.00118496 is satellite.
+- Daily automation **LIORIN cornerstone loop** 07:30 ET, does not expire 20 Sep.
+- Gmail trigger **LIORIN Haber inbound** on robert.haber@gmail.com.
+- Durable 1d scheduler also on.
+- Warden demoted to satellite mark-only. No second buy.
+

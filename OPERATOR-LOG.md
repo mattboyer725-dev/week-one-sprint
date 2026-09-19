@@ -160,3 +160,10 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - SENT Matt the 60-second call script: 914-478-2380 Monday.
 - Haber: still no pile-on. Frozen orgs: still frozen.
 
+
+## Fri 18 Sep 21:30 ET — ethics, then cash
+
+- Pump-and-dump test: refused. Stays refused.
+- Cash path unchanged: Hastings Rec $1,200. Email already out. Monday 914-478-2380.
+- Offer page is now the one-pager (print). BTC HOLD.
+

@@ -200,3 +200,14 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Coinbase satellite: 0.00118496 BTC total (0.00059248 available + 0.00059248 hold) + ~0.06 USDC. USD $0. No buy. No sell. No leverage. Order 1d94a616 remains the only lot.
 - Cash desk still $1,200 / $2,500 term + Member $4.44 live SKU. Club $99.99 on EIN/W-9 hold.
 - Appended this entry. Inbound-only posture held. No new desks. No fake users/SKUs.
+
+## Day 6 — Sat 19 Sep 2026 ~08:30 ET
+
+- Gmail search (inbound humans, last 7d): no LIORIN/chess human threads that asked a question requiring reply. Marketing/notifications only (The Athletic Pulse, Alinea prospectus, Temu reviews, Supabase freeze warning, Anthropic receipts, GitHub matt-butler failure, Google OAuth, Icybox receipts, Vercel import, Reddit, OpenTable, LinkedIn, Coinbase buy/fail). Did **not** reply to any. Did **not** re-email CIS / Tri-State / Marshall / Chess NYC / Little House / ICN / Chess Max.
+- Health-check https://liorin-platform.vercel.app/pricing: live and correct. Member $4.44/month after 7-day free trial is the only live cash SKU. Club $99.99 / up to 15 users remains on verification hold (“not charged yet”, EIN/W-9). Copy matches mandate. Page loads cleanly.
+- Cash / mandate: still $0 realized vs $2,500/week average. $100 working capital untouched (not a market bet). No trading executed. Do not promise yield.
+- Three moves only (legal, timeboxed):
+  1. Confirmed pricing page health and SKU state (Member live, Club hold).
+  2. Appended this Day 6 note to OPERATOR-LOG.md.
+  3. No new outbound. Inbound-only posture held. No desks spawned. PR #82 left unmerged. No emails to minors.
+- Next: continue inbound watch + Member conversion path. Stop new outreach after 20 Sep. Wrap-up email to Matt if after 20 Sep.

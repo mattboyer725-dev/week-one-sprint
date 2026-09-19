@@ -191,3 +191,12 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - week-one-sprint index: Rec phone + live board.
 - North Desk /bridge pings those lives.
 
+
+## Sat 19 Sep 2026 ~07:41 ET — cornerstone loop (does not expire)
+
+- GET https://liorin-platform.vercel.app/ + /pricing + /play: all live. Homepage renders full product copy (youth-safe tutor, $4.44 Member after trial, Club on hold). Pricing correct: Free Demo $0 / Member $4.44 after 7-day trial / School-Club $99.99 not charged yet. /play shows Rapid ten-move demo + mode grid. SPA loads; not broken. Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors.
+- Gmail human inbound (last 7d, exclude GitHub/Vercel/Stripe/Temu): no LIORIN/chess questions requiring reply. Marketing, Anthropic receipts, Icybox, OpenTable, BoA, self-notes from Matt, package delivery. **robert.haber@gmail.com**: zero messages. Silent → do not pile on. Frozen org list untouched.
+- Weekend: skipped weekday post drafts.
+- Coinbase satellite: 0.00118496 BTC total (0.00059248 available + 0.00059248 hold) + ~0.06 USDC. USD $0. No buy. No sell. No leverage. Order 1d94a616 remains the only lot.
+- Cash desk still $1,200 / $2,500 term + Member $4.44 live SKU. Club $99.99 on EIN/W-9 hold.
+- Appended this entry. Inbound-only posture held. No new desks. No fake users/SKUs.

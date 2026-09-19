@@ -135,3 +135,10 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 - Durable 1d scheduler also on.
 - Warden demoted to satellite mark-only. No second buy.
 
+
+## Fri 18 Sep 21:10 ET — 24/7 lot
+
+- Mark: 0.00118496 BTC * 81503 + 0.06 USDC ≈ **96.59**. Cost 97.50. PnL ≈ **-0.91** (the fee). HOLD.
+- Hourly automation **BTC 24/7 lot** armed. Rules: no leverage, no second cash, max 1 round trip/day, sell 50% at +12% (~91212), runner at +50%, buy dip with proceeds only.
+- A million from $97 is ~10,300x. Not a forecast. LIORIN is still the $2,500/week desk.
+

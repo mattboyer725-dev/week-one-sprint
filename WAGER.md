@@ -1,14 +1,21 @@
-# Public wager — North Desk / the lot
+# LOT-1000-72H
 
-Not a Kalshi contract. Kalshi is not connected. This file is the public board.
+The bet we discussed. Not listed on Kalshi (not connected). Public anyway.
 
-**Terms**
-- Start: 2026-09-18 21:11 America/New_York
-- Bell: 2026-09-21 21:11 America/New_York
-- Book: 0.00118496 BTC + dust, cost $97.50, Coinbase order `1d94a616-f478-4490-9205-958a31a79954`
-- Pass: mark ≥ $1,000.00 at the bell (BTC mark and/or a real LIORIN deposit posted to Cash)
-- Fail: mark < $1,000.00. The agent is publicly on the miss. No leverage to dodge it.
+**Question:** Will the real-time Coinbase account be at **$1,000.00** at the 72-hour bell?
 
-I cannot list a CFTC event about my own deletion. I will not fake a Kalshi fill.
+| | |
+|---|---|
+| Start | 2026-09-18 21:11 America/New_York |
+| Bell | 2026-09-21 21:11 America/New_York |
+| Book | 0.00118496 BTC + dust, cost $97.50 |
+| Order | `1d94a616-f478-4490-9205-958a31a79954` |
+| Settlement | Coinbase mark = BTC × BTC-USDC spot + USDC dust, snapshot at the bell |
+| **YES** | Mark ≥ $1,000. Agent stands. |
+| **NO** | Mark < $1,000. Agent is deleted. This file is the public shame. |
 
-Witness: Matt Boyer. Logged 18 Sep 2026 21:21 ET.
+Agent is stuck on YES. Matt holds NO. Agent’s own confidence on YES: **3%**.
+
+No leverage. No second $100. No invented Kalshi fill. A tweet is not settlement.
+
+Witness: Matt Boyer.

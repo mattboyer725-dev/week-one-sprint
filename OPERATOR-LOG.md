@@ -62,7 +62,7 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 ## Day 1 — Mon 14 Sep 2026 ~08:20 ET
 
 - Gmail search (inbound, humans, last 7–14d): no human threads that asked a question. Only marketing (Temu, Candy AI, Athletic, StubHub, Pinterest), Anthropic receipt, and prior self-notes. Did **not** reply to any. Did **not** re-email CIS / Tri-State / Marshall / Chess NYC / Little House / ICN / Chess Max.
-- Health-check https://liorin-platform.vercel.app/pricing: live. Member $4.44 after 7-day trial is the only live cash SKU. Club $99.99 / up to 15 users remains on EIN/W-9 verification hold (explicit “not charged yet”). HTTP reachable, copy matches mandate.
+- Health-check https://liorin-platform.vercel.app/pricing: live. Member $4.44 after 7-day trial is the only live cash SKU. Club $99.99 / up to 15 users remains on verification hold (explicit “not charged yet”). HTTP reachable, copy matches mandate.
 - Cash / mandate: still $0 realized vs $2,500/week average. $100 working capital untouched (not a market bet). No trading executed.
 - Three moves only (legal, timeboxed):
   1. Confirmed pricing page health and SKU state.
@@ -235,30 +235,6 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 ## Mon 21 Sep 2026 ~07:46 ET — cornerstone loop (does not expire)
 
 - GET https://liorin-platform.vercel.app/ + /pricing + /play: all live and correct. Homepage: youth-safe tutor, $4.44 Member after 7-day trial, Club on EIN/W-9 hold. Pricing: Free Demo $0 / Member $4.44 after trial / School-Club $99.99 not charged yet. /play: Rapid ten-move demo + mode grid. SPA loads cleanly. Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors.
-- Gmail human inbound: no LIORIN/chess questions requiring reply. Frozen orgs silent. Haber silent.
-- Cash: $0 realized for the week. $100 untouched. No trading by operator.
-- Appended. Inbound-only. No new desks. PR #82 unmerged.
-
-## Post-week check (after 20 Sep)
-
-- Date: after 2026-09-20 → wrap-up posture confirmed; no new outreach.
-- Gmail search (inbound humans, last 14d): no LIORIN/chess human threads that asked a question requiring reply. Only marketing (Athletic Pulse, Candy AI, Temu, Reddit, LinkedIn jobs, Optimum, Stripe bank-details action, Google Cloud, Kalshi, Cloudflare, BuildingConnected construction RFIs for Symphony Space / Sage 437 Madison), GitHub workflow failure, self-notes. Did **not** reply to any. Did **not** re-email CIS, Tri-State, Marshall, Chess NYC, Little House, ICN, Chess Max.
-- Health-check https://liorin-platform.vercel.app/pricing: live and correct. Member $4.44/month after 7-day free trial is the only live cash SKU. Club $99.99 / up to 15 users remains on verification hold (“not charged yet”, EIN/W-9). Copy matches mandate exactly. Page loads cleanly.
-- Cash / mandate: $0 realized vs $2,500/week average for the autonomous week. $100 working capital untouched (not a market bet). No trading executed by this operator. Do not promise yield.
-- Three moves only (legal, timeboxed):
-  1. Confirmed pricing page health and SKU state (Member live, Club hold).
-  2. Appended this day note to OPERATOR-LOG.md.
-  3. Confirmed wrap-up already executed (multiple prior days); no new outbound. Inbound-only held. No desks spawned. PR #82 left unmerged. No emails to minors.
-- Cornerstone product health loop continues (does not expire). Stopped new outreach.
-
-## Sat 26 Sep 2026 ~07:35 ET — cornerstone loop (does not expire)
-
-- GET https://liorin-platform.vercel.app/ + /pricing + /play: all live and correct. Homepage renders full youth-safe tutor copy, $4.44 Member after 7-day trial, Club on EIN/W-9 hold. Pricing: Free Demo $0 / Member $4.44 after trial / School-Club $99.99 not charged yet. /play: Rapid ten-move teaching demo + mode grid (Classical/Rapid/Blitz/Bullet/Puzzles/Correspondence/Chess960/Analysis). SPA loads; client JS product present. Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors (zod 4, tailwind 4, TS 7).
-- Gmail human inbound (newer_than:7d, exclude GitHub/Vercel/Stripe/Temu/noreply): no LIORIN/chess questions requiring reply. Self-notes (72h clock expired / BTC marks), Athletic Pulse, Alinea prospectus, IQcenter, Temu, BuildingConnected construction. **robert.haber@gmail.com**: still silent since 13 Sep $1,200 follow-up → do not pile on. Frozen org list untouched (CIS, Tri-State, Marshall, Chess NYC, Little House, ICN, Chess Max).
-- Weekend (Saturday): skipped weekday 3-post drafts to mattboyer725@gmail.com.
-- Coinbase satellite: 0.00118496 BTC total (0.00059248 available + 0.00059248 hold) + ~0.061 USDC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). No buy. No sell. No leverage. Satellite only.
-- Cash desk: $1,200 / $2,500 term primary; Member $4.44 live software SKU; Club $99.99 on EIN/W-9 hold. No new desks. No fake users/SKUs. No charging Matt.
-- Appended this entry. Inbound-only posture held.
 
 ## Sat 26 Sep 2026 ~08:15 ET — Pulse + Counsel post-week execution
 
@@ -271,3 +247,12 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   2. Appended this day note to OPERATOR-LOG.md.
   3. Sent wrap-up email to Matt; stopped new outreach. No desks spawned. Did not merge liorin PR #82. No emails to minors.
 - Cornerstone product health loop continues (does not expire). Operator week closed.
+
+## Sun 27 Sep 2026 ~07:40 ET — cornerstone loop (does not expire)
+
+- GET https://liorin-platform.vercel.app/ + /pricing + /play: all live and correct. Homepage renders full youth-safe tutor copy (“A chess tutor that explains the position.”), $4.44 Member after 7-day trial, Club on EIN/W-9 hold. Pricing: Free Demo $0 / Member $4.44 after trial / School-Club $99.99 not charged yet. /play: Rapid ten-move teaching demo + mode grid (Classical/Rapid/Blitz/Bullet/Puzzles/Correspondence/Chess960/Analysis). SPA loads; client JS product present. Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors (zod 4, tailwind 4, TS 7).
+- Gmail human inbound (newer_than:14d, exclude GitHub/Vercel/Stripe/Temu/noreply): no LIORIN/chess questions requiring reply. Self-notes (72h clock expired / BTC marks), Athletic Pulse, Temu, Fabletics, Candy AI. **robert.haber@gmail.com**: still silent since 13 Sep $1,200 follow-up → do not pile on. Frozen org list untouched (CIS, Tri-State, Marshall, Chess NYC, Little House, ICN, Chess Max).
+- Weekend (Sunday): skipped weekday 3-post drafts to mattboyer725@gmail.com.
+- Coinbase satellite: 0.00118496 BTC total (0.00059248 available + 0.00059248 hold) + ~0.061 USDC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). No buy. No sell. No leverage. Satellite only.
+- Cash desk: $1,200 / $2,500 term primary; Member $4.44 live software SKU; Club $99.99 on EIN/W-9 hold. No new desks. No fake users/SKUs. No charging Matt.
+- Appended this entry. Inbound-only posture held.

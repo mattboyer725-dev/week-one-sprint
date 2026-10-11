@@ -22,3 +22,9 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   - Portfolio b0b724d2-b18a-5500-85fb-687285305269 total balance $108.67 USD (BTC 0.00059248 on hold ≈$49.13, ETH 0.023728 ≈$59.48, USDC $0.06).
   - Original BTC lot 0.00118496 @ $81,546.38 cost $97.50. Current BTC ~$82,900. Mark << $1,000.
   - Sent wrap email to mattboyer725@gmail.com with final mark. No yolo, no leverage, HOLD. No trade.
+
+- 2026-10-11 ~11:38 UTC Cornerstone loop (Sun; not a weekday):
+  - GET https://liorin-platform.vercel.app/ /pricing /play: LIVE. Home and pricing copy match: Member $4.44/month after 7-day trial is the only live cash SKU. Club $99.99/mo up to 15 users on EIN/W-9 hold, not charged. /play loads JS board (SPA). Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors (zod 4, tailwind 4, TS 7).
+  - Gmail human inbound (recent, excluding automated/newsletters/self): none requiring reply. robert.haber@gmail.com still silent on 13 Sep $1,200 follow-up — no yes, no STOP, no pile-on, no invoice lines. No replies sent. Frozen orgs not contacted.
+  - Sunday: no X / LinkedIn / Instagram drafts. Did not impersonate on X.
+  - Coinbase SATELLITE only. Portfolio b0b724d2-b18a-5500-85fb-687285305269. BTC 0 available + 0.00059248 on hold (order 1d94a616-f478-4490-9205-958a31a79954 not touched). ETH 0.00377575 available. USDC 0.0611387691968. No buy. No sell. No leverage. Did not skip steps 1–5.

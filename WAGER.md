@@ -23,3 +23,7 @@ Witness: Matt Boyer.
 ## Status 2026-09-18 21:25 ET
 
 OPEN. Mark ≈ $96.38. Spot 81288.69. HOLD. YES not printed.
+
+## Status 2026-10-12 ~21:06 UTC
+
+CLOSED. Clock expired 2026-09-21 21:11 ET. Final mark ~$53.11. **NO**. Wrap email sent. Open post-only limit SELL half at $91,212 remains. No yolo. HOLD.

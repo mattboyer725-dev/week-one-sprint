@@ -53,3 +53,9 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   - USDC: ~$0.06.
   - Original cost $97.50. Mark << $1,000. No +$1,000 alert.
   - Sent wrap email to mattboyer725@gmail.com. No yolo, no leverage, HOLD. Open limit remains. No trade.
+
+- 2026-10-13 ~11:38 UTC Cornerstone loop (Tue; weekday):
+  - GET https://liorin-platform.vercel.app/ /pricing /play: LIVE. Pricing page copy matches live SKU. Member $4.44/month after 7-day trial is the only live cash offer. Club $99.99/mo up to 15 users remains EIN/W-9 hold, not charged. Home and /play return loading shell (JS board expected). Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors (zod 4, tailwind 4, TS 7).
+  - Gmail human inbound (recent, excluding GitHub/Vercel/Stripe/Temu/automated/newsletters/self): none requiring reply. robert.haber@gmail.com still silent on 13 Sep $1,200 follow-up — no yes, no STOP, no pile-on, no invoice lines. No replies sent. Frozen orgs not contacted.
+  - Weekday: drafted 3 posts (X / LinkedIn / Instagram) to mattboyer725@gmail.com. Lead with $1,200 / $2,500 term. Member $4.44 after 7-day trial. Club on hold. Did not impersonate on X.
+  - Coinbase SATELLITE only. Portfolio b0b724d2-b18a-5500-85fb-687285305269 total ~$53.44 USD. BTC 0.00059248 on hold ~$49.43 (half of recorded 0.00118496 lot; order 1d94a616-f478-4490-9205-958a31a79954 not touched). ETH 0.001577 ~$3.95. USDC ~$0.06. No buy. No sell unless Matt says. No leverage. Did not skip steps 1–5 because the lot moved.

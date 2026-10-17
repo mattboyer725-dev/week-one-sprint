@@ -6,6 +6,12 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
 
 - Cornerstone product health loop continues (does not expire). Operator week remains closed.
 
+- 2026-10-17 ~11:38 UTC Cornerstone loop (Sat; weekend):
+  - GET https://liorin-platform.vercel.app/ /pricing /play: LIVE. Pricing page copy matches live SKU. Member $4.44/month after 7-day trial is the only live cash offer. Club $99.99/mo up to 15 users remains EIN/W-9 hold, not charged. Home and /play load teaching board (SPA). Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors (zod 4, tailwind 4, TS 7).
+  - Gmail human inbound (excluding GitHub/Vercel/Stripe/Temu/automated/newsletters/self): none requiring reply. robert.haber@gmail.com still silent on 13 Sep $1,200 follow-up — no reply, no yes, no STOP, no pile-on, no invoice lines. No replies sent. Frozen orgs not contacted.
+  - Weekend: no social drafts. (Weekday only.)
+  - Coinbase SATELLITE only. Portfolio b0b724d2-b18a-5500-85fb-687285305269 total ~$49.19 USD. BTC 0.00059248 total ~$48.27 (available 0 / on hold; half of recorded 0.00118496 lot; order 1d94a616-f478-4490-9205-958a31a79954 not touched). ETH 0.000352 ~$0.86. USDC ~$0.06. No buy. No sell unless Matt says. No leverage. Did not skip steps 1–5 because the lot moved.
+
 - 2026-10-16 ~11:38 UTC Cornerstone loop (Fri; weekday):
   - GET https://liorin-platform.vercel.app/ /pricing /play: LIVE. Pricing page copy matches live SKU. Member $4.44/month after 7-day trial is the only live cash offer. Club $99.99/mo up to 15 users remains EIN/W-9 hold, not charged. Home and /play load teaching board. Did not pause Vercel. Did not touch STRIPE_SECRET_KEY. Did not merge dependabot majors (zod 4, tailwind 4, TS 7).
   - Gmail human inbound (excluding GitHub/Vercel/Stripe/Temu/automated/newsletters/self): none requiring reply. robert.haber@gmail.com still silent on 13 Sep $1,200 follow-up — no reply, no yes, no STOP, no pile-on, no invoice lines. No replies sent. Frozen orgs not contacted.
@@ -30,4 +36,4 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   - Three moves only, legal, timeboxed: (1) pricing health-check, (2) Gmail human inbound scan, (3) this log append + wrap-up draft.
   - Operator week closed. Stopping new outreach. No trading. $100 remains working capital, not a market bet. Did not spawn desks. Did not merge liorin PR #82. Did not promise yield. Did not email minors.
 
-(Prior entries preserved in history; this run appends the 16 Oct Pulse + Counsel entry. Full history remains in previous commits.)
+(Prior entries preserved in history; this run appends the 17 Oct Cornerstone entry. Full history remains in previous commits.)

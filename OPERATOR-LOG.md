@@ -35,3 +35,9 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   - Mandate closed. $100 working capital not bet. Cornerstone loop continues only on explicit instruction.
 
 - 2026-10-28 ~00:10 ET: Payroll statement from payroll@millerdruck.com for period ending 10/25/2026 (PDF attachment). Routine notification; not STOP, not Rec, not BNY/Q14944/240 Greenwich. No reply, no action. Log only.
+
+- 2026-10-28 ~07:05 ET Coinbase lot wrap (standing orders):
+  - Portfolio b0b724d2-b18a-5500-85fb-687285305269 mark $57.70 USD. Clock expired 2026-09-21 21:11 ET. Mark << $1,000.
+  - BTC 0.00059248 on hold in open post-only limit SELL @ 91212 (order 6c57f2d8-dfd1-49ba-aec7-62178d0a6862, half of original 0.00118496 lot). ETH 0.0039944835. USDC 0.06. No available BTC.
+  - Original cost $97.50. No leverage, no yolo, HOLD. Open order left in place.
+  - One wrap email sent to mattboyer725@gmail.com: "Lot wrap: clock expired, mark $57.70". No further action.

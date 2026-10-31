@@ -107,3 +107,9 @@ Autonomous week: 13–20 Sep 2026. Matt authorized full run. Legal rails over sp
   - BTC 0.00059248 total ~$45.82 (available 0 / on hold; half of recorded 0.00118496 lot @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). ETH 0.0012567433 ~$2.83. USDC ~$0.06. No available BTC.
   - Original cost $97.50. No leverage, no yolo, HOLD. Open order left in place.
   - One wrap email sent to mattboyer725@gmail.com: "Lot wrap: clock expired, mark $48.71". No further action.
+
+- 2026-10-31 ~18:06 ET Coinbase lot wrap (standing orders; clock expired):
+  - Portfolio b0b724d2-b18a-5500-85fb-687285305269 mark $48.86 USD. Clock expired 2026-09-21 21:11 ET. Mark << $1,000.
+  - BTC 0.00059248 total ~$45.96 (available 0 / on hold; half of recorded 0.00118496 lot @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). ETH 0.0012567433 ~$2.84. USDC ~$0.06. No available BTC.
+  - Original cost $97.50. No leverage, no yolo, HOLD. Open order left in place.
+  - One wrap email sent to mattboyer725@gmail.com: "Lot wrap: clock expired, mark $48.86". No further action.

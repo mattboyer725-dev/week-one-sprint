@@ -15,3 +15,11 @@ PLACEHOLDER_TO_BE_REPLACED
 - Mandate week 2026-09-13 to 2026-09-20 expired. New outreach stopped. Wrap-up email sent to Matt.
 - No desks spawned, no PR #82 merge, no yield promised, no minors contacted, no trades.
 - Three legal timeboxed moves completed: site check, inbox review, log + wrap.
+
+---
+2026-11-03 07:38 ET — LIORIN CORNERSTONE
+- Site: https://liorin-platform.vercel.app/ , /pricing, /play all healthy. Member $4.44 after 7-day trial is the live software SKU. Club $99.99/mo remains on EIN/W-9 hold. No copy/CI changes required.
+- Gmail human inbound: none requiring reply. robert.haber@gmail.com still silent after 13 Sep $1,200 follow-up — no pile-on. Blocked list untouched.
+- Drafted 3 posts (X / LinkedIn / Instagram) to mattboyer725@gmail.com for posting as liorin22. Lead $1,200 / $2,500 term. No X impersonation.
+- Coinbase satellite: original 0.00118496 BTC lot (order 1d94a616-f478-4490-9205-958a31a79954). Current portfolio mark ~$46.03 (BTC 0.00059248). No buy, no sell, no leverage.
+- No new desks, no scraped lists, no SKU invention, no charging Matt, no fake P&L.

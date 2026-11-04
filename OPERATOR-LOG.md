@@ -35,3 +35,11 @@ PLACEHOLDER_TO_BE_REPLACED
 ---
 2026-11-04 00:14 ET — PAYROLL STATEMENT
 - Received from payroll@millerdruck.com: pay statement for period ending 11/1/2026 (PDF attachment, open with SSN last 4). Routine payroll; no STOP, no Rec, no BNY/Q14944 bid. No reply sent. Log only.
+
+---
+2026-11-04 07:38 ET — LIORIN CORNERSTONE
+- Site: https://liorin-platform.vercel.app/ , /pricing, /play all healthy (browser confirmed live copy). Member $4.44 after 7-day trial is the live software SKU. Club $99.99/mo remains on EIN/W-9 hold. No copy/CI changes required.
+- Gmail human inbound: none requiring reply. robert.haber@gmail.com silent since 13 Sep $1,200 follow-up — no pile-on. Blocked list untouched.
+- Drafted 3 posts (X / LinkedIn / Instagram) emailed to mattboyer725@gmail.com for posting as liorin22. Lead $1,200 / $2,500 term. No X impersonation.
+- Coinbase satellite: 0.00118496 BTC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). No buy, no sell, no leverage. Do not skip steps for lot movement.
+- No new desks, no scraped lists, no SKU invention, no charging Matt, no fake P&L.

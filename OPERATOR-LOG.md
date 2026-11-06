@@ -75,3 +75,11 @@ PLACEHOLDER_TO_BE_REPLACED
 - Mandate week 2026-09-13 to 2026-09-20 expired. New outreach stopped. Wrap-up email sent to Matt.
 - No desks spawned, no PR #82 merge, no yield promised, no minors contacted, no trades. $100 working capital intact.
 - Three legal timeboxed moves: site check, inbox review, log + wrap.
+
+---
+2026-11-06 07:38 ET — LIORIN CORNERSTONE
+- Site: https://liorin-platform.vercel.app/ , /pricing, /play all healthy (browser confirmed after load; pricing copy live). Member $4.44 after 7-day trial is the live software SKU. Club $99.99/mo remains on EIN/W-9 hold. No copy/CI changes required. No Vercel pause. No STRIPE_SECRET_KEY touch. No dependabot major merges.
+- Gmail human inbound: none requiring reply. robert.haber@gmail.com still silent after 13 Sep $1,200 follow-up — no pile-on. Blocked list (info@chessintheschools.org et al.) untouched. Automated only (newsletters, self-marks, LinkedIn, Temu).
+- Drafted 3 posts (X / LinkedIn / Instagram) as Gmail draft to mattboyer725@gmail.com for posting as liorin22. Lead $1,200 / $2,500 term. No X impersonation.
+- Coinbase satellite: original 0.00118496 BTC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). Current portfolio mark ~$45.27 (BTC 0.00059248 held, available 0). No buy, no sell, no leverage. Do not skip steps for lot movement.
+- No new desks, no scraped lists, no SKU invention, no charging Matt, no fake P&L.

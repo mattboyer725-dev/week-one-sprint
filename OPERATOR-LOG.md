@@ -133,3 +133,11 @@ PLACEHOLDER_TO_BE_REPLACED
 - Open order: post-only limit SELL 0.00059248 BTC at $91,212 (BTC-USDC).
 - Wrap email sent to mattboyer725@gmail.com with final mark. No yolo, no leverage, no additional trades or capital. Holding remainder.
 - Silent otherwise. No +$1,000 alert triggered.
+
+---
+2026-11-08 07:38 ET — LIORIN CORNERSTONE
+- Site: https://liorin-platform.vercel.app/ , /pricing, /play all healthy (SPA /play loads secure board as expected). Member $4.44 after 7-day trial is the live software SKU. Club $99.99/mo remains on EIN/W-9 hold. No copy/CI changes required. No Vercel pause. No STRIPE_SECRET_KEY touch. No dependabot major merges.
+- Gmail human inbound: none requiring reply. robert.haber@gmail.com still silent after 13 Sep $1,200 follow-up — no pile-on. Blocked list untouched. Automated only (self Coinbase mark emails, newsletters, Chess.com, Temu, etc.).
+- Sunday (weekend): no 3 posts drafted (weekday only). No X impersonation.
+- Coinbase satellite: original 0.00118496 BTC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). Current portfolio mark ~$45.13 USD (BTC 0.00059248 held/available 0; USDC ~$0.06; ETH dust). No buy, no sell, no leverage. Do not skip steps for lot movement.
+- No new desks, no scraped lists, no SKU invention, no charging Matt, no fake P&L.

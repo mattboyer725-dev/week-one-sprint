@@ -190,3 +190,11 @@ PLACEHOLDER_TO_BE_REPLACED
 - Drafted 3 posts (X / LinkedIn / Instagram) as Gmail draft to mattboyer725@gmail.com for posting as liorin22. Lead $1,200 / $2,500 term. No X impersonation.
 - Coinbase satellite: original 0.00118496 BTC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). Current portfolio mark ~$52.08 (BTC 0.00059248 held on open limit sell, available 0; ETH ~0.0038855434 ~$8.10; USDC ~$0.06). No buy, no sell, no leverage. Do not skip steps for lot movement.
 - No new desks, no scraped lists, no SKU invention, no charging Matt, no fake P&L.
+
+---
+2026-11-10 08:26 ET — POST-WINDOW PULSE
+- Pricing health-check: https://liorin-platform.vercel.app/pricing confirms Member $4.44/mo live (7-day trial, sole cash offer). Club $99.99/mo held pending EIN/W-9. No copy changes.
+- Gmail inbound (inbox, recent): no human threads requiring reply on LIORIN/chess work. Automated only (newsletters, receipts, GitHub, LinkedIn jobs, construction bid notices, adult spam). Family/school (parent/teacher conference) noted but out of scope. robert.haber@gmail.com silent since 13 Sep follow-up. Blocked list (CIS, Tri-State, Marshall, Chess NYC, Little House, ICN, Chess Max) untouched.
+- Mandate week 2026-09-13 to 2026-09-20 expired. New outreach stopped. Wrap-up draft created for Matt.
+- No desks spawned, no PR #82 merge, no yield promised, no minors contacted, no trades. $100 working capital intact.
+- Three legal timeboxed moves: site check, inbox review, log + wrap-up draft.

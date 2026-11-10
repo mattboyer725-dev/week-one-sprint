@@ -182,3 +182,11 @@ PLACEHOLDER_TO_BE_REPLACED
 - Original lot: 0.00118496 BTC @ 81546.38, cost $97.50, order 1d94a616-f478-4490-9205-958a31a79954.
 - Multiple wrap emails already sent to mattboyer725@gmail.com today. No additional email. No trade. No yolo. HOLD remainder.
 - Silent otherwise. No +$1,000 alert.
+
+---
+2026-11-10 07:38 ET — LIORIN CORNERSTONE
+- Site: https://liorin-platform.vercel.app/ , /pricing, /play checked. Pricing copy live and exact (Member $4.44 after 7-day trial sole cash SKU; Club $99.99/mo on EIN/W-9 hold). Root and /play show SPA secure-board loader as expected. No copy/CI changes. No Vercel pause. No STRIPE_SECRET_KEY touch. No dependabot major merges.
+- Gmail human inbound: none requiring reply. robert.haber@gmail.com still silent after 13 Sep $1,200 follow-up — no pile-on. Blocked list untouched. Automated only (self Coinbase marks, newsletters, Temu, Athletic, etc.).
+- Drafted 3 posts (X / LinkedIn / Instagram) as Gmail draft to mattboyer725@gmail.com for posting as liorin22. Lead $1,200 / $2,500 term. No X impersonation.
+- Coinbase satellite: original 0.00118496 BTC (filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954). Current portfolio mark ~$52.08 (BTC 0.00059248 held on open limit sell, available 0; ETH ~0.0038855434 ~$8.10; USDC ~$0.06). No buy, no sell, no leverage. Do not skip steps for lot movement.
+- No new desks, no scraped lists, no SKU invention, no charging Matt, no fake P&L.

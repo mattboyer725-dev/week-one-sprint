@@ -61,3 +61,12 @@ PLACEHOLDER_TO_BE_REPLACED
 - Drafts: Saturday (not weekday). No posts drafted.
 - Coinbase satellite: portfolio b0b724d2-b18a-5500-85fb-687285305269 total $47.25 USD. BTC 0.00059248 on hold (available_to_trade 0; half of original 0.00118496 lot filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954) ~$39.79. ETH 0.0038855434 ~$7.40. USDC ~$0.06. No buy. No sell. No leverage. Steps 1–5 completed first.
 - Hard nos observed: no fake users, minors, scraped lists, new desks, charges to Matt, invented SKUs, or fake P&L.
+
+2026-11-15 01:08 ET — BACKGROUND CHECK POST-DEADLINE
+- 72H clock long expired (deadline 2026-09-21 21:11 ET). Mark remains << $1,000.
+- Portfolio b0b724d2-b18a-5500-85fb-687285305269 total_balance $45.05 USD.
+- BTC 0.00059248 (~$38.05 at spot $64,233.46) held on open post-only limit SELL 0.00059248 @ $91,212 BTC-USDC (order 6c57f2d8-dfd1-49ba-aec7-62178d0a6862, available_to_trade 0).
+- ETH 0.0038855434 ~$6.95. USDC ~$0.06.
+- Original lot half remains; +12% target not hit. No trade. No yolo. HOLD default. No leverage.
+- Prior wrap emails already sent (11/10–12). No additional email. Silent. No +$1,000 alert.
+- LIORIN cornerstone not skipped.

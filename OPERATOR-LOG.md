@@ -136,3 +136,10 @@ PLACEHOLDER_TO_BE_REPLACED
 - Original lot half remains; +12% target not hit. No trade. No yolo. HOLD default. No leverage. No second $100.
 - Prior wrap emails already sent (11/10–16). No additional email. Silent. No +$1,000 alert.
 - LIORIN cornerstone not skipped.
+
+2026-11-17 07:44 ET — CORNERSTONE LOOP
+- Site: https://liorin-platform.vercel.app/ and /pricing show LOADING SECURE BOARD… reload prompt (consistent prior client board load). /play fully renders teaching board (Member $4.44 after 7-day trial live software SKU; Club $99.99/mo on EIN/W-9 hold). No breakage requiring CI fix. No Vercel pause. No STRIPE_SECRET_KEY touch. No dependabot majors.
+- Gmail: no human inbound requiring reply. robert.haber@gmail.com silent (no threads; prior $1,200 follow-up 13 Sep). No pile-on. Blocked list untouched. Self-emails and newsletters noted only.
+- Drafts: 3 posts (X / LinkedIn / Instagram) created as draft to mattboyer725@gmail.com (draft_id r2526032699192932292). Lead $1,200 / $2,500 term. Member $4.44 after 7-day trial confirmed. Club hold confirmed. No X impersonation.
+- Coinbase satellite: portfolio b0b724d2-b18a-5500-85fb-687285305269 total $45.58 USD. BTC 0.00059248 on hold (available_to_trade 0; half of original 0.00118496 lot filled 18 Sep @ 81546.38, order 1d94a616-f478-4490-9205-958a31a79954) ~$38.45. ETH 0.0038855434 ~$7.07. USDC ~$0.06. No buy. No sell. No leverage. Steps 1–5 completed first.
+- Hard nos observed: no fake users, minors, scraped lists, new desks, charges to Matt, invented SKUs, or fake P&L.
